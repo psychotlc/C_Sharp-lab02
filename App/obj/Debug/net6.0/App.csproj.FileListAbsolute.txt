@@ -1,0 +1,15 @@
+/home/narek/Documents/C#/lab02/App/bin/Debug/net6.0/App
+/home/narek/Documents/C#/lab02/App/bin/Debug/net6.0/App.deps.json
+/home/narek/Documents/C#/lab02/App/bin/Debug/net6.0/App.runtimeconfig.json
+/home/narek/Documents/C#/lab02/App/bin/Debug/net6.0/App.dll
+/home/narek/Documents/C#/lab02/App/bin/Debug/net6.0/App.pdb
+/home/narek/Documents/C#/lab02/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+/home/narek/Documents/C#/lab02/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/home/narek/Documents/C#/lab02/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+/home/narek/Documents/C#/lab02/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+/home/narek/Documents/C#/lab02/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+/home/narek/Documents/C#/lab02/App/obj/Debug/net6.0/App.dll
+/home/narek/Documents/C#/lab02/App/obj/Debug/net6.0/refint/App.dll
+/home/narek/Documents/C#/lab02/App/obj/Debug/net6.0/App.pdb
+/home/narek/Documents/C#/lab02/App/obj/Debug/net6.0/App.genruntimeconfig.cache
+/home/narek/Documents/C#/lab02/App/obj/Debug/net6.0/ref/App.dll
